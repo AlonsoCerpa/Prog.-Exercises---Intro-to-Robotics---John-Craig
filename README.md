@@ -1,2 +1,2 @@
 # Prog.-Exercises---Intro-to-Robotics---John-Craig
-Solved programming exercises for the book "Introduction to Robotics: Mechanics and Control"
+Solved programming exercises for the book "Introduction to Robotics: Mechanics and Control" by Jhon J. Craig.
